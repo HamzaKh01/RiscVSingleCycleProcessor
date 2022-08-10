@@ -1,0 +1,19 @@
+0.6
+2018.2
+Jun 14 2018
+20:07:38
+/home/user3/training10x/singleCycle/Adder.v,1658745406,verilog,,/home/user3/training10x/singleCycle/Alu.v,,adder,,,,,,,,
+/home/user3/training10x/singleCycle/Alu.v,1658746888,verilog,,/home/user3/training10x/singleCycle/Decoder.v,,alu,,,,,,,,
+/home/user3/training10x/singleCycle/Decoder.v,1658745948,verilog,,/home/user3/training10x/singleCycle/ImmGenerator.v,,decoder,,,,,,,,
+/home/user3/training10x/singleCycle/ImmGenerator.v,1658747371,verilog,,/home/user3/training10x/singleCycle/LSU.v,,ImmGen,,,,,,,,
+/home/user3/training10x/singleCycle/LSU.v,1658747461,verilog,,/home/user3/training10x/singleCycle/branchComp.v,,LSU,,,,,,,,
+/home/user3/training10x/singleCycle/branchComp.v,1658747030,verilog,,/home/user3/training10x/singleCycle/dataMem.v,,branchComp,,,,,,,,
+/home/user3/training10x/singleCycle/dataMem.v,1658745653,verilog,,/home/user3/training10x/singleCycle/instrMem.v,,Data_Memory,,,,,,,,
+/home/user3/training10x/singleCycle/instrMem.v,1658744837,verilog,,/home/user3/training10x/singleCycle/mux2.v,,instrMem,,,,,,,,
+/home/user3/training10x/singleCycle/mux2.v,1658658145,verilog,,/home/user3/training10x/singleCycle/mux3.v,,mux2,,,,,,,,
+/home/user3/training10x/singleCycle/mux3.v,1658658173,verilog,,/home/user3/training10x/singleCycle/pcReg.v,,mux3,,,,,,,,
+/home/user3/training10x/singleCycle/pcReg.v,1658644250,verilog,,/home/user3/training10x/singleCycle/registerFile.v,,pcReg,,,,,,,,
+/home/user3/training10x/singleCycle/registerFile.v,1658423511,verilog,,/home/user3/training10x/singleCycle/top.v,,regFile,,,,,,,,
+/home/user3/training10x/singleCycle/singleCycle/singleCycle.sim/sim_1/behav/xsim/glbl.v,1529022455,verilog,,,,glbl,,,,,,,,
+/home/user3/training10x/singleCycle/singleCycle/singleCycle.srcs/sim_1/new/testtt.v,1658732849,verilog,,,,testtt,,,,,,,,
+/home/user3/training10x/singleCycle/top.v,1658736710,verilog,,/home/user3/training10x/singleCycle/singleCycle/singleCycle.srcs/sim_1/new/testtt.v,,top,,,,,,,,

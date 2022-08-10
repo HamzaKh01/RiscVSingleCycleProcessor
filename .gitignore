@@ -1,7 +1,7 @@
 *.log
 *.xpr
 
-/singleCycle.cache
-/singleCycle.hw
-/singleCycle.ip_user_files
-/singleCycle.sim
+/singleCycle/singleCycle.cache
+/singleCycle/singleCycle.hw
+/singleCycle/singleCycle.ip_user_files
+/singleCycle/singleCycle.sim
